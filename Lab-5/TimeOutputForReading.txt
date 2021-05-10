@@ -1,0 +1,7 @@
+Read 10 structs in 0.000000 milliseconds.
+Read 100 structs in 0.994000 milliseconds.
+Read 1000 structs in 0.000000 milliseconds.
+Read 10000 structs in 0.000000 milliseconds.
+Read 100000 structs in 0.000000 milliseconds.
+Read 1000000 structs in 1.002000 milliseconds.
+Read 10000000 structs in 10.967000 milliseconds.

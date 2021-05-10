@@ -1,0 +1,7 @@
+Number of elements sorted: 10, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.
+Number of elements sorted: 100, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.
+Number of elements sorted: 1000, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.
+Number of elements sorted: 10000, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.
+Number of elements sorted: 100000, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.
+Number of elements sorted: 1000000, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.
+Number of elements sorted: 10000000, Top Of Stack: 6421912, Bottom Of Stack: 6421952, Difference in the two: 40.

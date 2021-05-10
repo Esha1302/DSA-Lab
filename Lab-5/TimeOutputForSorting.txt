@@ -1,0 +1,7 @@
+Sorted 10 structs in 0.000000 milliseconds.
+Sorted 100 structs in 0.000000 milliseconds.
+Sorted 1000 structs in 0.000000 milliseconds.
+Sorted 10000 structs in 0.000000 milliseconds.
+Sorted 100000 structs in 0.000000 milliseconds.
+Sorted 1000000 structs in 0.998000 milliseconds.
+Sorted 10000000 structs in 10.967000 milliseconds.
