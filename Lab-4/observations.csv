@@ -1,0 +1,12 @@
+Coin toss result,N,Time Taken in ms,Heap Space
+Linear LL,10,1133871366,176
+Linear LL,50,1855425872,992
+Cycle LL,100,790273982,2608
+Cycle LL,10,515396076,176
+Cycle LL,50,1889785610,992
+Linear LL,100,687194767,2608
+
+Coin toss result,N,Time Taken in ms,Heap Space
+Linear LL,10,1133871366,176
+Cycle LL,50,549755814,992
+Cycle LL,100,-1202590843,2608
