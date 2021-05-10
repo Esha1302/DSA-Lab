@@ -1,0 +1,12 @@
+Time Taken to sort 10 elements with quickSort, cutoff 6: 0.998000 milliseconds.
+stpoavjjg 91242
+jhviogyce 370477
+cchrtkptb 152042
+ylnsnenbqb 598045
+qwsiszvwt 689690
+ryeswssil 942299
+qttlanbpa 773703
+jjnfcztky 934252
+tnwaepkeh 760566
+raeenksoh 649773
+

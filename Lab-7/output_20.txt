@@ -1,0 +1,21 @@
+Time Taken to sort 20 elements with quickSort, cutoff 11: 0.999000 milliseconds.
+mtblqkvekg 30209
+lpgpdvrrm 5667
+evinfuaah 48692
+xubdegmlk 130827
+mrnozvxpy 220709
+lnkdvexya 455731
+tcljlrosw 425095
+aolnzqnhi 317102
+ezsmnbqsm 369060
+lyzhtioyx 282627
+uazjbivkg 608128
+qyebtdhwq 813449
+lbszlyykk 854977
+fyntindzo 906653
+ednesefhk 628012
+vcnxtedzj 632064
+wzivkznos 691865
+yrvkpnaxu 659369
+cqpolzxat 850595
+ywblkdkos 698729
